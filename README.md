@@ -1,5 +1,9 @@
 Estudei o código, fui introduzido à conceitos de JSON. 
 
+Arquivos alterados/estudados: index.js, models/User.js, controllers/UserController.js
+
+Mínimas alterações em index.html.
+
 Anotações soltas:
 
 Sub-rotina é uma função que não retorna valor
